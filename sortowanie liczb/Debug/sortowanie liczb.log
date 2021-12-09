@@ -1,0 +1,5 @@
+﻿  sortowanie liczb.cpp
+  sortowanie.cpp
+C:\Users\Kacper\Desktop\ \SZKOŁA\PROGRAMY\sortowanie liczb\sortowanie.cpp(4,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  sortowanie liczb.vcxproj -> C:\Users\Kacper\Desktop\ \SZKOŁA\PROGRAMY\sortowanie liczb\Debug\sortowanie liczb.exe

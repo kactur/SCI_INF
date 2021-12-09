@@ -1,0 +1,8 @@
+﻿  szyfr.cpp
+C:\Users\Kacper\Desktop\ \test1\szyfr.cpp(18,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\Desktop\ \test1\szyfr.cpp(42,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\Desktop\ \test1\szyfr.cpp(41,14): warning C4101: "temp2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Kacper\Desktop\ \test1\szyfr.cpp(72,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\Desktop\ \test1\szyfr.cpp(68,6): warning C4101: "klucz": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Kacper\Desktop\ \test1\szyfr.cpp(102): warning C4715: "modInverse”: niewszystkie ścieżki kodu zwracają wartość
+  test1.vcxproj -> C:\Users\Kacper\Desktop\ \test1\Debug\test1.exe
